@@ -7,7 +7,7 @@
 // @namespace    https://github.com/jammaloo
 // @updateURL    https://raw.githubusercontent.com/jammaloo/WorkTangoLocalLogin/main/WorkTangoLocalLogin.user.js
 // @downloadURL  https://raw.githubusercontent.com/jammaloo/WorkTangoLocalLogin/main/WorkTangoLocalLogin.user.js
-// @match        https://*.rr.develop.non-prod.kazoohr.io/users/sign_in?kwref=*
+// @match        https://*.rr.develop.non-prod.kazoohr.io/users/sign_in*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=worktango.com
 // @grant        none
 // ==/UserScript==

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WorkTango Local Login
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Add quick links to set or remove the kwref on login
 // @author       You
 // @namespace    https://github.com/jammaloo

@@ -14,3 +14,11 @@ Make sure you have user scripts enabled in your browser (these instructions refe
 ### Install scripts
 
 [Download the latest version](https://raw.githubusercontent.com/jammaloo/WorkTangoLocalLogin/main/WorkTangoLocalLogin.user.js)
+
+### Screenshots
+
+No kwref set
+![No kwref set](no-kwref.png?raw=true "No kwref")
+
+Kwref set
+![Kwref set](kwref-set.png?raw=true "Kwref set")
